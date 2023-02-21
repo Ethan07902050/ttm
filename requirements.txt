@@ -1,0 +1,9 @@
+moviepy
+pandas
+numpy
+opencv-python
+torch
+torchvision
+torchaudio
+tqdm
+gdown

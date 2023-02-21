@@ -1,0 +1,3 @@
+[submodule "avhubert/av_hubert"]
+	path = avhubert/av_hubert
+	url = https://github.com/Ethan07902050/av_hubert.git

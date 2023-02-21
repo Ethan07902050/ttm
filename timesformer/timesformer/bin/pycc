@@ -1,0 +1,3 @@
+#!/tmp2/b08902028/DLCV/TimeSformer/timesformer/bin/python
+from numba.pycc import main
+main()
